@@ -1,0 +1,35 @@
+# ZK学习资源
+
+> [!NOTE]
+>
+> 本书签内容整理自 紫樱（别名） 大佬的资源，非常感谢紫樱大佬的分享。
+
+- [What is a zero-knowledge proof? | Zero-Knowledge Proofs](https://zkp.science/)
+- [密码回放Notion地址](https://706community.notion.site/1274dda0e8f548daa97d86df386275fd?v=0d8006efb9f045b8b9b75bb9347f7896)
+- [ZK Learning Resources](http://learn.0xparc.org/)
+- [Modern Zero Knowledge Cryptography](https://zkiap.com/)
+- [Discussions · Q A · Antalpha-Labs/zkp-co-learn](https://github.com/Antalpha-Labs/zkp-co-learn/discussions/categories/q-a)
+- [learning-zkp/zkp-back.md at master · sec-bit/learning-zkp](https://github.com/sec-bit/learning-zkp/blob/master/zkp-intro/1/zkp-back.md)
+- [Polygon zkEVM——Hermez 2.0简介_mutourend的博客-CSDN博客_hermez](https://blog.csdn.net/mutourend/article/details/126034757)
+- [Wing commander and Rhodes scholar | MIT - Massachusetts Institute of Technology](https://web.mit.edu/)
+- [learning-zkp/zkp-intro at master · sec-bit/learning-zkp](https://github.com/sec-bit/learning-zkp/tree/master/zkp-intro)
+- [【OH问题点小结】Week1-Session1&amp;Session3 · Discussion #33 · Antalpha-Labs/zkp-co-learn](https://github.com/Antalpha-Labs/zkp-co-learn/discussions/33)
+- [IACR News](https://iacr.org/news/)
+- [不同類型的 ZK-EVM](https://vitalik.ca/general/2022/08/29/zkevm_zhTW.html)
+- [Scroll zkEVM设计，优化和应用 | 登链社区 | 区块链技术社区](https://learnblockchain.cn/article/5674)
+- [https://eprint.iacr.org/2019/953.pdf](https://eprint.iacr.org/2019/953.pdf)
+- [GitHub - ethstorage/eip4844-blob-hash-getter](https://github.com/ethstorage/eip4844-blob-hash-getter)
+- [Footprint Analytics](https://www.footprint.network/)
+- [ZKP Buidler！](https://706community.notion.site/ZKP-Buidler-16c99076a9064131a032a91680447e6b)
+- [GitHub - 0xPARC/plonkathon: educational python plonk implementation, based on vitalik's py_plonk](https://github.com/0xPARC/plonkathon)
+- [KZG polynomial commitments | Dankrad Feist](https://dankradfeist.de/ethereum/2020/06/16/kate-polynomial-commitments.html)
+- [elliptic vulnerabilities | Snyk](https://security.snyk.io/package/npm/elliptic)
+- [AztecProtocol/barretenberg](https://github.com/AZTECProtocol/barretenberg)
+- [Criticism on ZK — msfew](https://mirror.xyz/msfew.eth/Q0NQDYIerEqqK4N7tMDX4OTIJ0flpPMgdH-XCNociEU)
+- [zk/plonk.md at main · zisequkuai/zk · GitHub](https://github.com/zisequkuai/zk/blob/main/plonk.md#plonk初学者指南-资料汇总)
+- [Ethereum Research](https://ethresear.ch/)
+- [0x2 Office Hour](https://706community.notion.site/0x2-Office-Hour-3498e46bd8a84648ad2186d2a36e25ce)
+- [Modern ZK Crypto - Session 1 Lecture Notes - HackMD](https://hackmd.io/@gubsheep/B1LF02t9i)
+- [分享用 Python来写简单的加密算法，如finite field，poly over Fq，FFT 等](https://706community.notion.site/Python-finite-field-poly-over-Fq-FFT-1968732f468c4c3fa3886a5658c58773)
+- [xzk - Search results - Wikipedia](https://en.m.wikipedia.org/w/index.php)
+- [Main Page - Wikipedia](https://en.m.wikipedia.org/wiki/Main_Page)
