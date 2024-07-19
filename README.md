@@ -2,7 +2,7 @@
 
 > [!NOTE]
 >
-> 本书签内容整理自 紫樱（别名） 大佬的资源，非常感谢紫樱大佬的分享。我在上面进行整理添加
+> 本书签内容整理自 [紫樱（别名）](https://github.com/VioletSakura777) 大佬的[资源](./zk_bookMark(source).html)，非常感谢紫樱大佬的分享。我在上面进行整理添加
 
 一些笔记或者心得之类的会在https://github.com/EthanShang8989/zk-learning-resources 上面更新。希望大家一起进步。
 
